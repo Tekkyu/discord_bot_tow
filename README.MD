@@ -1,12 +1,10 @@
 # Discord Bot Template
 
-This is a basic [Discord](https://discord.com) bot, using [discordpy](https://github.com/Rapptz/discord.py) ([docs](https://discordpy.readthedocs.io/en/stable/)) that creates a `!!foo` and `/bar` commands.
+This is a basic [Discord](https://discord.com) bot, using [discordpy](https://github.com/Rapptz/discord.py) ([docs](https://discordpy.readthedocs.io/en/stable/)) modified to add features helping out my alliance from the game tides of war
 
 ## Use
 
 This bot is ready to go. Create a .env file, example below and provide your Discord bot token, then run `main.py`.
-
-Feel free to expand on the commands and build your bot.
 
 ## .env
 
